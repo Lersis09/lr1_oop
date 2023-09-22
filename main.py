@@ -1,4 +1,4 @@
-import math # підключення бібліотеки
+import math # підключення бібліотек
 def task_integer16():
     """A three-digit number is given. Output the number obtained by 
        permuting the digits tens and ones of the original number (for 
